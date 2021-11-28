@@ -1,6 +1,6 @@
 ## Backup BD MySQL 💾
   Desarrollado con PHP. <br>
-  Otros recursos: PHPMAILER.
+  Otros recursos: PHPMAILER, league/flysystem, mysqldump-php, symfony/finder.
   
   * Podras Generar una copia de seguridad de tus bases de datos localmente y comprimidas. <br>
   * Generar notificaciones por medio de correo electronico de que el backup de la Base de datos se realizo. <br>
